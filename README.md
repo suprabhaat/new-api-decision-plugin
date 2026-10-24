@@ -5,3 +5,6 @@
 *Use at your own risk.*
 
 *In my tests, it worked  pretty well but I haven't reviewed the code yet.*
+
+
+This is Liquid AI d1-3B plugin for llama.cpp for new-api
